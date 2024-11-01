@@ -1,0 +1,44 @@
+/**
+* Sparklab Style.css
+ */
+.wp-block-sparklab-cwm-block-controls {
+
+}
+
+.sparklab-cwm-align-left {
+	text-align: left;
+}
+
+.sparklab-cwm-align-center {
+	text-align: center;
+}
+
+.sparklab-cwm-align-right {
+	text-align: right;
+}
+.red-border{ border: 1px solid red!important;}
+.sparklab-loader {
+	position: absolute;
+	opacity: 0.5;
+	background: #000;
+	width: 94%;
+	height: 86%;
+	top: 8px;
+	left: 1px;
+	z-index: 10;
+}
+.sparklab-loader > div {
+	color: white;
+	font-size: 25px;
+	top: 40px;
+	position: relative;
+	left: 0px;
+	padding-left: 50px;
+	font-weight: bold;
+}
+.hide{
+	display: none;
+}
+.pcomponents-text-control__input{
+	width: 100%;
+}
